@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\remotehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\remotehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\virtualkeycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\virtualkeycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\windowsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\windowsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\ieventsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ieventsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sarma m\\source\\repos\\consoleapp1\\consoleapp1\\dockerfile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680A0D74-B443-494F-8261-90855EBBAD6F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dockerfile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAPsCAAAAAAAAAAAAAA8DAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:13:22.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\IEventSimulator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IEventSimulator.cs",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\IEventSimulator.cs",
+              "RelativeToolTip": "ConsoleApp1\\IEventSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:44:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConsoleApp1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T08:21:31.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAjwG4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-06T21:12:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowsInput.cs",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WindowsInput.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\WindowsInput.cs",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\WindowsInput.cs",
+              "RelativeToolTip": "ConsoleApp1\\WindowsInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:18:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirtualKeyCode.cs",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\VirtualKeyCode.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\VirtualKeyCode.cs",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\VirtualKeyCode.cs",
+              "RelativeToolTip": "ConsoleApp1\\VirtualKeyCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:18:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Dockerfile\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Dockerfile\\Dockerfile",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Dockerfile\\Dockerfile",
+              "RelativeToolTip": "ConsoleApp1\\Dockerfile\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T21:22:56.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T21:16:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteHub.cs",
+              "DocumentMoniker": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\RemoteHub.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RemoteHub.cs",
+              "ToolTip": "C:\\Users\\Sarma M\\source\\repos\\ConsoleApp1\\ConsoleApp1\\RemoteHub.cs",
+              "RelativeToolTip": "ConsoleApp1\\RemoteHub.cs",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAawOkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:13:19.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

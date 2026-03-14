@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Sarma M\Pictures</_PublishTargetUrl>
+    <History>True|2025-12-10T20:12:25.9338953Z||;True|2025-12-11T01:10:18.7287929+05:30||;True|2025-12-11T01:05:41.9351753+05:30||;True|2025-12-11T00:59:24.5485543+05:30||;True|2025-12-11T00:55:22.5210221+05:30||;True|2025-12-11T00:46:24.5216039+05:30||;True|2025-12-11T00:38:28.7961753+05:30||;True|2025-12-11T00:30:27.6815118+05:30||;True|2025-12-11T00:25:13.6815705+05:30||;True|2025-12-11T00:10:12.9340602+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="WindowsInput.cs">
+      <publishTime>12/10/2025 15:28:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

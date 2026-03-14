@@ -1,0 +1,13 @@
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\ConsoleApp1.exe
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\ConsoleApp1.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\ConsoleApp1.deps.json
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\ConsoleApp1.runtimeconfig.json
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\ConsoleApp1.pdb
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Sarma M\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\net8.0-windows\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
